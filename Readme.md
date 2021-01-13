@@ -42,5 +42,6 @@ j'ai-pas-encore-fait-ça-donc-je-met-un-url-trop-cool.com
 - - signature_proprietaire
 - - signature_locataire
 
+# visualisation du diagram de gantt
 
 ![alt text](https://github.com/Sauvagecyprien/projet-pro-planning-gestion-bdd/blob/master/image.png)
